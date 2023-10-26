@@ -1,5 +1,3 @@
-# y-zen-ada
-# yuzenada
 
 <h1>yuzenada</h1>
 
